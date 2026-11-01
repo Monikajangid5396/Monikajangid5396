@@ -1,18 +1,24 @@
 # Hi, I'm Monika 👋
 
-Data Science Analyst with a strong interest in Machine Learning, AI, analytics, and business-driven insights.
+Data Science Analyst | Machine Learning Enthusiast | Problem Solver
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Analyst;Machine+Learning+Engineer+in+making;AI+%7C+ML+%7C+Analytics;Problem+Solver+%7C+Continuous+Learner" alt="Typing SVG" />
+</p>
+
+I’m a data-driven problem solver passionate about analytics, machine learning, AI, and business intelligence. I enjoy turning raw data into actionable insights and building models that solve real-world challenges.
 
 ## About Me
-- 📊 I work at the intersection of data analysis, business intelligence, and machine learning
-- 🤖 Passionate about building AI/ML models that solve real-world problems
-- 📈 Interested in predictive analytics, forecasting, recommendation systems, and data-driven decision making
-- 💻 Skilled in Python, SQL, ML, and data visualization
-- 🌱 Continuously learning advanced ML, deep learning, and AI applications
-- 📫 Reach me at: dugujangid636@gmail.com
+- 📊 Passionate about Data Analysis, EDA, and Business Intelligence
+- 🤖 Interested in Machine Learning, AI, Predictive Analytics, and Automation
+- 💡 Enjoy solving problems using Python, SQL, ML pipelines, and data visualization
+- 📈 Curious about forecasting, recommendation systems, and intelligent decision-making systems
+- 🌱 Continuously learning advanced ML, Deep Learning, and AI concepts
+- 📫 Contact: dugujangid636@gmail.com
 
 ## Tech Stack
 
-### Data Analytics
+### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -22,15 +28,15 @@ Data Science Analyst with a strong interest in Machine Learning, AI, analytics, 
 ### Machine Learning / AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Core Skills
 - Data Analysis & Data Cleaning
@@ -39,41 +45,41 @@ Data Science Analyst with a strong interest in Machine Learning, AI, analytics, 
 - Feature Engineering
 - Machine Learning Model Development
 - Model Evaluation & Optimization
-- Forecasting & Predictive Analytics
+- Predictive Analytics
+- Forecasting
 - Business Intelligence & Dashboarding
 - AI-powered problem solving
-- Data storytelling
+- Data Storytelling
 
 ## Featured Projects
-
 ### 1. Sales Forecasting Model
-- Built a predictive model to forecast sales trends using historical data
-- Tools: Python, Pandas, Scikit-learn, Matplotlib
+- Built a predictive model to identify future sales trends using historical data
+- Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 - Highlights:
   - EDA and feature engineering
   - Time-series analysis
   - Model tuning and evaluation
-  - Business insights from predictions
+  - Business insight generation
 
 ### 2. Customer Churn Prediction
-- Developed a churn prediction model to identify at-risk customers
+- Developed a churn prediction model to detect at-risk customers
 - Tools: Python, SQL, Scikit-learn, Seaborn
 - Highlights:
   - Data preprocessing
   - Classification modeling
   - ROC-AUC and confusion matrix analysis
-  - Actionable retention recommendations
+  - Actionable business recommendations
 
 ### 3. HR Analytics Dashboard
-- Created an interactive dashboard to track employee performance and attrition
-- Tools: Power BI / Excel / SQL
+- Created an interactive dashboard for employee performance and retention analysis
+- Tools: Power BI, Excel, SQL
 - Highlights:
-  - KPI analysis
-  - Employee insights
-  - Retention and productivity trends
+  - KPI and trend analysis
+  - Attrition tracking
+  - Decision-support reporting
 
-### 4. AI/ML Research / Experiment Project
-- Built an ML experiment or model for a practical problem
+### 4. AI/ML Experiment Project
+- Built a practical ML/AI project to solve a real-world problem
 - Tools: Python, PyTorch / TensorFlow, Jupyter
 - Highlights:
   - Model training
@@ -82,44 +88,50 @@ Data Science Analyst with a strong interest in Machine Learning, AI, analytics, 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monikajangid5396&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monikajangid5396&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-## Certifications / Learning
-- Data Analytics
-- SQL for Data Analysis
-- Python for Data Science
-- Machine Learning Fundamentals
-- Power BI / Tableau
-- AI and Deep Learning concepts
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Contributions" />
+</p>
 
-## Areas of Interest
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Business Intelligence
-- Predictive Analytics
-- Data Visualization
-- Automation and AI-driven decision systems
+## Competitive Programming
+- CodeChef: [monika_5396](https://www.codechef.com/users/monika_5396)
+- LeetCode: [monika_jangid](https://leetcode.com/u/monika_jangid/)
 
-## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/monika-jangid-449669380/
-- LeetCode: https://leetcode.com/u/monika_jangid/
-- Email: dugujangid636@gmail.com
+## Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/monika-jangid-449669380/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/monika_jangid/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/monika_5396">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="mailto:dugujangid636@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ## Open to Work
-I am open to opportunities in:
+I’m open to opportunities in:
 - Data Science
 - Data Analytics
 - Machine Learning
 - AI Engineer roles
-- Internship / entry-level data-driven positions
+- Internship / Entry-level Data-driven roles
 
 ---
 
-⭐ Passionate about using data and AI to solve meaningful problems and create business impact.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Monikajangid5396&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
+</p>
 
----
-
-⭐ Passionate about using data and AI to solve meaningful problems and create business impact.
+⭐ Passionate about using data and AI to solve meaningful real-world problems and create business impact.to solve meaningful problems and create business impact.
