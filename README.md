@@ -1,20 +1,46 @@
-# Hi, I'm Monika 👋
-
-Data Science Analyst | Machine Learning Enthusiast | Problem Solver
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Analyst;Machine+Learning+Engineer+in+making;AI+%7C+ML+%7C+Analytics;Problem+Solver+%7C+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Monika+%F0%9F%91%8B;Data+Science+Analyst;Machine+Learning+Enthusiast;AI+%7C+ML+%7C+Analytics;Problem+Solver+%7C+Continuous+Learner" alt="Typing SVG" />
 </p>
 
-I’m a data-driven problem solver passionate about analytics, machine learning, AI, and business intelligence. I enjoy turning raw data into actionable insights and building models that solve real-world challenges.
+<h1 align="center">Hi, I'm Monika 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Science%20Analyst-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%7C%20AI-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-28A745?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Data Science Analyst with a strong interest in Machine Learning, AI, Analytics, and Business Intelligence.  
+  I enjoy turning raw data into insights, building predictive models, and solving real-world problems with data-driven solutions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/monika-jangid-449669380/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/monika_jangid/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/monika_5396">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="mailto:dugujangid636@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
 
 ## About Me
 - 📊 Passionate about Data Analysis, EDA, and Business Intelligence
-- 🤖 Interested in Machine Learning, AI, Predictive Analytics, and Automation
-- 💡 Enjoy solving problems using Python, SQL, ML pipelines, and data visualization
-- 📈 Curious about forecasting, recommendation systems, and intelligent decision-making systems
-- 🌱 Continuously learning advanced ML, Deep Learning, and AI concepts
-- 📫 Contact: dugujangid636@gmail.com
+- 🤖 Interested in Machine Learning, AI, predictive analytics, and automation
+- 📈 Enjoy solving real-world problems using data, models, and decision-making systems
+- 💻 Skilled in Python, SQL, Excel, Power BI, ML workflows, and data visualization
+- 🌱 Constantly learning advanced AI/ML concepts, deep learning, and practical implementation
+- 📫 Reach me at: dugujangid636@gmail.com
+
+---
 
 ## Tech Stack
 
@@ -28,7 +54,7 @@ I’m a data-driven problem solver passionate about analytics, machine learning,
 ### Machine Learning / AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -38,6 +64,8 @@ I’m a data-driven problem solver passionate about analytics, machine learning,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
 ## Core Skills
 - Data Analysis & Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -45,15 +73,17 @@ I’m a data-driven problem solver passionate about analytics, machine learning,
 - Feature Engineering
 - Machine Learning Model Development
 - Model Evaluation & Optimization
-- Predictive Analytics
-- Forecasting
+- Forecasting & Predictive Analytics
 - Business Intelligence & Dashboarding
 - AI-powered problem solving
-- Data Storytelling
+- Data storytelling
+
+---
 
 ## Featured Projects
+
 ### 1. Sales Forecasting Model
-- Built a predictive model to identify future sales trends using historical data
+- Built a predictive model to forecast sales trends using historical data
 - Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 - Highlights:
   - EDA and feature engineering
@@ -62,29 +92,31 @@ I’m a data-driven problem solver passionate about analytics, machine learning,
   - Business insight generation
 
 ### 2. Customer Churn Prediction
-- Developed a churn prediction model to detect at-risk customers
+- Developed a churn prediction model to detect customers likely to leave
 - Tools: Python, SQL, Scikit-learn, Seaborn
 - Highlights:
   - Data preprocessing
   - Classification modeling
   - ROC-AUC and confusion matrix analysis
-  - Actionable business recommendations
+  - Actionable retention recommendations
 
 ### 3. HR Analytics Dashboard
-- Created an interactive dashboard for employee performance and retention analysis
+- Created a business dashboard to track employee performance and attrition
 - Tools: Power BI, Excel, SQL
 - Highlights:
-  - KPI and trend analysis
-  - Attrition tracking
-  - Decision-support reporting
+  - KPI tracking
+  - Performance analysis
+  - Retention insights
 
 ### 4. AI/ML Experiment Project
-- Built a practical ML/AI project to solve a real-world problem
+- Built a practical ML/AI solution for a real-world problem
 - Tools: Python, PyTorch / TensorFlow, Jupyter
 - Highlights:
-  - Model training
-  - Validation and optimization
-  - Real-world applicability
+  - Model training and optimization
+  - Validation and testing
+  - Real-world usability
+
+---
 
 ## GitHub Stats
 
@@ -100,25 +132,13 @@ I’m a data-driven problem solver passionate about analytics, machine learning,
   <img src="https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Contributions" />
 </p>
 
+---
+
 ## Competitive Programming
 - CodeChef: [monika_5396](https://www.codechef.com/users/monika_5396)
 - LeetCode: [monika_jangid](https://leetcode.com/u/monika_jangid/)
 
-## Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/monika-jangid-449669380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/monika_jangid/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/monika_5396">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="mailto:dugujangid636@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+---
 
 ## Open to Work
 I’m open to opportunities in:
@@ -130,8 +150,16 @@ I’m open to opportunities in:
 
 ---
 
+## Contact
+- Email: dugujangid636@gmail.com
+- LinkedIn: https://www.linkedin.com/in/monika-jangid-449669380/
+- LeetCode: https://leetcode.com/u/monika_jangid/
+- CodeChef: https://www.codechef.com/users/monika_5396
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Monikajangid5396&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
 </p>
 
-⭐ Passionate about using data and AI to solve meaningful real-world problems and create business impact.to solve meaningful problems and create business impact.
+⭐ Passionate about using data and AI to solve real-world problems and create business impact.
