@@ -133,25 +133,44 @@
 
 ---
 
-## GitHub Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420" />
+      </p>
+    </td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+    <td width="50%" valign="top">
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/metrics/graph.svg" width="16" height="16" /> <a href="https://github.com/Monikajangid5396">GitHub Stats</a></li>
+        <li><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/metrics/graph.svg" width="16" height="16" /> <a href="https://github.com/Monikajangid5396">Top Languages</a></li>
+        <li><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/metrics/graph.svg" width="16" height="16" /> <a href="https://github.com/Monikajangid5396">GitHub Contributions</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monikajangid5396&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Competitive Programming</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> <a href="https://www.codechef.com/users/monika_5396">CodeChef</a></li>
+        <li><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> <a href="https://leetcode.com/u/monika_jangid/">LeetCode</a></li>
+      </ul>
+    </td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Contributions" />
-</p>
-
----
-
-## Competitive Programming
-- CodeChef: [monika_5396](https://www.codechef.com/users/monika_5396)
-- LeetCode: [monika_jangid](https://leetcode.com/u/monika_jangid/)
+    <td width="50%" valign="top">
+      <h3>Quick Links</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> <a href="https://www.linkedin.com/in/monika-jangid-449669380/">LinkedIn</a></li>
+        <li><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> <a href="https://www.instagram.com/monika_jangid8650/">Instagram</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
