@@ -136,25 +136,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Monikajangid5396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420" />
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <ul>
-        <li><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/metrics/graph.svg" width="16" height="16" /> <a href="https://github.com/Monikajangid5396">GitHub Stats</a></li>
-        <li><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/metrics/graph.svg" width="16" height="16" /> <a href="https://github.com/Monikajangid5396">Top Languages</a></li>
-        <li><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/metrics/graph.svg" width="16" height="16" /> <a href="https://github.com/Monikajangid5396">GitHub Contributions</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
       <h3>Competitive Programming</h3>
       <ul>
         <li><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> <a href="https://www.codechef.com/users/monika_5396">CodeChef</a></li>
